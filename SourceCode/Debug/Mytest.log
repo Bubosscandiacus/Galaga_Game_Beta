@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\USER\Downloads\갤러그\VS2017\main.c(94,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\main.c(159,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mtg.c
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(490,12): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(492,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(592,11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(602,11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(680,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(758,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(694,6): warning C4101: 'x_start' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(786,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(864,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Downloads\갤러그\VS2017\mtg.c(800,6): warning C4101: 'x_start' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  Mytest.vcxproj -> C:\Users\USER\Downloads\갤러그\VS2017\Debug\Mytest.exe
